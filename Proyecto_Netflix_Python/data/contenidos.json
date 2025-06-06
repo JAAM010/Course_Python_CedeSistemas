@@ -1,0 +1,56 @@
+[
+    {
+      "titulo": "Stranger Things",
+      "descripcion": "Serie de ciencia ficción y misterio.",
+      "fecha_lanzamiento": "2016-07-15",
+      "tipo_contenido": "serie"
+    },
+    {
+      "titulo": "The Matrix",
+      "descripcion": "Película de acción y ciencia ficción.",
+      "fecha_lanzamiento": "1999-03-31",
+      "tipo_contenido": "pelicula"
+    },
+
+{
+      "titulo": "The Matrix",
+      "descripcion": "Película de acción y ciencia ficción.",
+      "fecha_lanzamiento": "2000-03-31",
+      "tipo_contenido": "pelicula"
+    },
+
+
+    {
+      "titulo": "Could Mountain",
+      "descripcion": "Película de acción y Lejano Oeste.",
+      "fecha_lanzamiento": "2000-03-31",
+      "tipo_contenido": "pelicula"
+    },
+
+
+       {
+      "titulo": "The Peluche family",
+      "descripcion": "Serie de diversion.",
+      "fecha_lanzamiento": "2000-03-31",
+      "tipo_contenido": "serie"
+    }
+
+    ,
+	
+	 {
+      "titulo": "El Hombre de acero",
+      "descripcion": "Accion / Ciencia Ficcion ",
+      "fecha_lanzamiento": "2000-03-31",
+      "tipo_contenido": "pelicula"
+    }
+	,
+	
+	 {
+      "titulo": "Dios no esta muerto",
+      "descripcion": "Cristiana",
+      "fecha_lanzamiento": "2010-03-20",
+      "tipo_contenido": "pelicula"
+    }
+
+  ]
+  

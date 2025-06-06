@@ -1,0 +1,4 @@
+pyodbc
+SQLAlchemy
+python-dotenv
+bcrypt
