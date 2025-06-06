@@ -1,0 +1,32 @@
+# Entorno virtual
+env/
+venv/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+
+# Archivos de bases de datos locales (si usas SQLite u otros)
+*.sqlite3
+*.db
+
+# Archivos de Word y PDF (si no deseas subirlos)
+#Documentacion_Proyecto_Netflix.docx
+#*.pdf
